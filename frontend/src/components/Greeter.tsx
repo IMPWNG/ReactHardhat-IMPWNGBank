@@ -1,5 +1,5 @@
 import React, { useContext, useEffect, useState } from 'react';
-import { GreeterContext } from "./../hardhat/SymfoniContext";
+import { GreeterContext } from "../hardhat/SymfoniContext";
 
 interface Props { }
 
